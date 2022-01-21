@@ -1,0 +1,84 @@
+[26-Aug-2021 12:45:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wptraini/public_html/wp-content/themes/OptimizePress/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wptraini/public_html/wp-content/themes/OptimizePress/index.php on line 3
+[27-Aug-2021 19:44:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wptraini/public_html/wp-content/themes/OptimizePress/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wptraini/public_html/wp-content/themes/OptimizePress/index.php on line 3
+[30-Aug-2021 01:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wptraini/public_html/wp-content/themes/OptimizePress/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wptraini/public_html/wp-content/themes/OptimizePress/index.php on line 3
+[15-Nov-2021 07:58:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php on line 3
+[24-Nov-2021 20:32:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_bloginfo() in /home/wptraini/public_html/wp-content/themes/OptimizePress/archive.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wptraini/public_html/wp-content/themes/OptimizePress/archive.php on line 3
+[24-Nov-2021 20:32:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php on line 3
+[24-Nov-2021 20:32:18 UTC] PHP Warning:  Use of undefined constant OPTPRESS_INCLUDES - assumed 'OPTPRESS_INCLUDES' (this will throw an Error in a future version of PHP) in /home/wptraini/public_html/wp-content/themes/OptimizePress/header.php on line 1
+[24-Nov-2021 20:32:18 UTC] PHP Warning:  require(OPTPRESS_INCLUDES/var.php): failed to open stream: No such file or directory in /home/wptraini/public_html/wp-content/themes/OptimizePress/header.php on line 1
+[24-Nov-2021 20:32:18 UTC] PHP Warning:  require(OPTPRESS_INCLUDES/var.php): failed to open stream: No such file or directory in /home/wptraini/public_html/wp-content/themes/OptimizePress/header.php on line 1
+[24-Nov-2021 20:32:18 UTC] PHP Fatal error:  require(): Failed opening required 'OPTPRESS_INCLUDES/var.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/wptraini/public_html/wp-content/themes/OptimizePress/header.php on line 1
+[24-Nov-2021 20:32:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wptraini/public_html/wp-content/themes/OptimizePress/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wptraini/public_html/wp-content/themes/OptimizePress/index.php on line 3
+[27-Nov-2021 20:43:58 UTC] PHP Warning:  Use of undefined constant OPTPRESS_INCLUDES - assumed 'OPTPRESS_INCLUDES' (this will throw an Error in a future version of PHP) in /home/wptraini/public_html/wp-content/themes/OptimizePress/header.php on line 1
+[27-Nov-2021 20:43:58 UTC] PHP Warning:  require(OPTPRESS_INCLUDES/var.php): failed to open stream: No such file or directory in /home/wptraini/public_html/wp-content/themes/OptimizePress/header.php on line 1
+[27-Nov-2021 20:43:58 UTC] PHP Warning:  require(OPTPRESS_INCLUDES/var.php): failed to open stream: No such file or directory in /home/wptraini/public_html/wp-content/themes/OptimizePress/header.php on line 1
+[27-Nov-2021 20:43:58 UTC] PHP Fatal error:  require(): Failed opening required 'OPTPRESS_INCLUDES/var.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/wptraini/public_html/wp-content/themes/OptimizePress/header.php on line 1
+[14-Dec-2021 17:26:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php on line 3
+[16-Dec-2021 14:38:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php on line 3
+[25-Dec-2021 21:34:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php on line 3
+[30-Dec-2021 03:46:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php on line 3
+[30-Dec-2021 19:46:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php on line 3
+[30-Dec-2021 19:46:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_bloginfo() in /home/wptraini/public_html/wp-content/themes/OptimizePress/archive.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wptraini/public_html/wp-content/themes/OptimizePress/archive.php on line 3
+[30-Dec-2021 19:46:39 UTC] PHP Warning:  Use of undefined constant OPTPRESS_INCLUDES - assumed 'OPTPRESS_INCLUDES' (this will throw an Error in a future version of PHP) in /home/wptraini/public_html/wp-content/themes/OptimizePress/header.php on line 1
+[30-Dec-2021 19:46:39 UTC] PHP Warning:  require(OPTPRESS_INCLUDES/var.php): failed to open stream: No such file or directory in /home/wptraini/public_html/wp-content/themes/OptimizePress/header.php on line 1
+[30-Dec-2021 19:46:39 UTC] PHP Warning:  require(OPTPRESS_INCLUDES/var.php): failed to open stream: No such file or directory in /home/wptraini/public_html/wp-content/themes/OptimizePress/header.php on line 1
+[30-Dec-2021 19:46:39 UTC] PHP Fatal error:  require(): Failed opening required 'OPTPRESS_INCLUDES/var.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/wptraini/public_html/wp-content/themes/OptimizePress/header.php on line 1
+[30-Dec-2021 19:46:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wptraini/public_html/wp-content/themes/OptimizePress/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wptraini/public_html/wp-content/themes/OptimizePress/index.php on line 3
+[01-Jan-2022 18:01:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php on line 3
+[03-Jan-2022 08:10:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php on line 3
+[05-Jan-2022 20:56:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php on line 3
+[06-Jan-2022 16:51:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wptraini/public_html/wp-content/themes/OptimizePress/404.php on line 3
